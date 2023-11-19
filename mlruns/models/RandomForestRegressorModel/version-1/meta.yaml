@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1700294162719
+current_stage: None
+description: null
+last_updated_timestamp: 1700294162719
+name: RandomForestRegressorModel
+run_id: 2f6232d696784f0ab85e39de3bbcbbaf
+run_link: null
+source: file:///c:/Users/admin/Desktop/Induction_Furnace_Carbon_Sulphur_Response/mlruns/0/2f6232d696784f0ab85e39de3bbcbbaf/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/admin/Desktop/Induction_Furnace_Carbon_Sulphur_Response/mlruns/0/2f6232d696784f0ab85e39de3bbcbbaf/artifacts/model
+user_id: null
+version: 1

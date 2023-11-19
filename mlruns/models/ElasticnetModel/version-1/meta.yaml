@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1700294032823
+current_stage: None
+description: null
+last_updated_timestamp: 1700294032823
+name: ElasticnetModel
+run_id: 3794a38f283b4c79ad9efb49c01fa2e5
+run_link: null
+source: file:///c:/Users/admin/Desktop/Induction_Furnace_Carbon_Sulphur_Response/mlruns/0/3794a38f283b4c79ad9efb49c01fa2e5/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/admin/Desktop/Induction_Furnace_Carbon_Sulphur_Response/mlruns/0/3794a38f283b4c79ad9efb49c01fa2e5/artifacts/model
+user_id: null
+version: 1

@@ -22,6 +22,7 @@ list_of_files = [
     f"src/{project_name}/entity/config_entity.py",
     f"src/{project_name}/constants/__init__.py",
     f"src/{project_name}/Unit_Tests",
+    f"src/{project_name}/.env",
     "config/config.yaml",
     "dvc.yaml",
     "schema.yaml",

@@ -1,0 +1,24 @@
+COLUMNS:
+  LADDLE_TEMP: int64
+  CASTING_TEMP: int64
+  AVG_POWER_PER_HEAT_KW: float64
+  POWER_CONSUMED_KWH: float64
+  FURNACE_COOLING_PRESSURE: float64
+  CONVERTOR_COOLING_PRESSURE: float64
+  SPONGE_IRON_MT: float64
+  SCRAP_MT: float64
+  PIG_IRON_KG: int64
+  CPC_KG: int64 
+  SiMn_KG: float64
+  AluminiumBar_KG: float64
+  Carbon(C%): float64
+  Manganese(Mn%): float64
+  Silicon(Si%): float64
+  Sulphur(S%): float64
+  Phosphorous(P%): float64
+  MT_PRODUCTION_PER_HEAT: float64
+
+
+TARGET_COLUMN:
+  target_1: Carbon(C%)
+  target_2: Sulphur(S%)

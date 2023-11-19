@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/admin/Desktop/Induction_Furnace_Carbon_Sulphur_Response/mlruns/0/3794a38f283b4c79ad9efb49c01fa2e5/artifacts
+end_time: 1700294032992
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3794a38f283b4c79ad9efb49c01fa2e5
+run_name: placid-robin-25
+run_uuid: 3794a38f283b4c79ad9efb49c01fa2e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700294005511
+status: 3
+tags: []
+user_id: admin
