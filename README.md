@@ -2,7 +2,10 @@
 
 This project is for integrating artifical inteligence in steel manufacturing. 
 ##### Problem Statement : 
-                        Problem with steel industry is that they still practices the old school methods that is hit and trial method for producing crude steel and this causes increases in the production cost as it may consumes more raw materials which includes rare earth metal too which are costly generally. By integrating AI in steel we can solve this traditional problem with our much precised algorithms and can give better yeilding and reduce overall production loss. 
+                        Problem with steel industry is that they still practices the old school methods that is hit and trial method 
+                        for producing crude steel and this causes increases in the production cost as it may consumes more raw materials 
+                        which includes rare earth metal too which are costly generally. By integrating AI in steel we can solve this 
+                        traditional problem with our much precised algorithms and can give better yeilding and reduce overall production loss. 
 
 
 #### How to run ?
